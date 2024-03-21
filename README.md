@@ -145,10 +145,13 @@ plt.plot(range(1, len(classifier.misclassified_samples) + 1),
 plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
-
-~~~
+```
 
 # OUTPUT:
+![image](https://github.com/KameshLeVI/Ex-2--NN/assets/120780633/947b65b7-8ccc-474e-82ac-699df0bc69f1)
+![image](https://github.com/KameshLeVI/Ex-2--NN/assets/120780633/cd94acf8-8567-4ded-be12-ed8af7d2683f)
+![image](https://github.com/KameshLeVI/Ex-2--NN/assets/120780633/f49d52d6-0121-441d-ba68-8517c20dc3ca)
+![image](https://github.com/KameshLeVI/Ex-2--NN/assets/120780633/ce1a0d30-e98c-4e44-9a13-889cfd98032f)
 
   
 
